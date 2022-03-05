@@ -1,4 +1,4 @@
-<h1> Hello! 👋 </h1>
+<h1> Hello! I'm Yukti 👋 </h1>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=FF9595&size=20&lines=I'm Yukti; I work with Javascript;Typescript;React;CSS" />
@@ -14,7 +14,7 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yuktea&left_color=e63946&right_color=pink)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuktea&left_color=e63946&right_color=pink) -->
 
 ### Some Statistics
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuktea&theme=dark" alt="stat" />
