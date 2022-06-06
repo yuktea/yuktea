@@ -5,7 +5,6 @@
 </a>
 
 - I’m currently learning and exploring WebAssembly <br/>
-- I 💙 contributing to Open-source projects <br/>
 <!-----figures------>
 
 ### Languages and Technologies
