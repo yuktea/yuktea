@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-I've worked with quite a bit of Java and Spring Boot, which has been central during my experiences in Fintech and some university courses. I've also worked with React, and JavaScript. While I haven’t worked much with UX design, I have a keen eye for it and enjoy the process.
+<p> I've worked with quite a bit of Java and Spring Boot, which has been central during my experiences in Fintech and some university courses. I've also worked with React, and JavaScript. While I haven’t worked much with UX design, I have a keen eye for it and enjoy the process. </p>
 
 
 
