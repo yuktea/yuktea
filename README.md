@@ -1,8 +1,7 @@
-# Bonjour! I'm yuktea ☕ 
-Hello! I'm Yukti, software engineer by profession. 
+# Bonjour! I'm yuktea
 
-Currently, I work at @Arcesium, and in the past, I've also been an intern with @JPMorganChase. 
-Beyond my day jobs, I've contributed to a few open source projects. (some of them: @OpenFoodFacts, @OpenTelemetry, and @MetaBrainz.)
+#### Software Engineer by profession currently working with **[Arcesium](https://github.com/arcesium)** and in the past I've worked with **[EnableIT.dk](https://github.com/obmondo)** and **[JPMorgan Chase](https://github.com/jpmorganchase)**. 
+#### Beyond my day jobs, I've also been involved with some OSS projects. (some of them: **[Open Food Facts](https://github.com/openfoodfacts)**, **[OpenTelemetry](https://github.com/open-telemetry)** (CNCF), and **[MetaBrainz](https://github.com/metabrainz)**)
 
 ## Stuff I play with (or you could say Things I've worked with :) ):
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
