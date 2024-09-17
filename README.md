@@ -1,6 +1,6 @@
 # Bonjour! I'm yuktea
 
-#### Software Engineer by profession currently working with **[Arcesium](https://github.com/arcesium)** and in the past I've worked with **[EnableIT.dk](https://github.com/obmondo)** and **[JPMorgan Chase](https://github.com/jpmorganchase)**. 
+#### Software Engineer by profession. Currently at **[Arcesium](https://github.com/arcesium)** and in the past I've worked with **[EnableIT.dk](https://github.com/obmondo)** and **[JPMorgan Chase](https://github.com/jpmorganchase)**. 
 #### Beyond my day jobs, I've also been involved with some OSS projects. (some of them: **[Open Food Facts](https://github.com/openfoodfacts)**, **[OpenTelemetry](https://github.com/open-telemetry)** (CNCF), and **[MetaBrainz](https://github.com/metabrainz)**)
 
 ## Stuff I play with (or you could say Things I've worked with :) ):
