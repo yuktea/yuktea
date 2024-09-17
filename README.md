@@ -2,7 +2,7 @@
 Hello! I'm Yukti, software engineer by profession. 
 
 Currently, I work at @Arcesium, and in the past, I've also been an intern with @JPMorganChase. 
-Beyond my day job, I've contributed to open-source projects like @OpenFoodFacts, @OpenTelemetry, and @MetaBrainz.
+Beyond my day jobs, I've contributed to a few open source projects. (some of them: @OpenFoodFacts, @OpenTelemetry, and @MetaBrainz.)
 
 ## Stuff I play with (or you could say Things I've worked with :) ):
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
